@@ -1,3 +1,4 @@
+# [switch to english](./readme.md)
 # 使用前提
 1. python>=3.10 需安装opencv-python,因为参数是ndarray类型的图像，也提供了另外一个不需要安装opencv-python的库[detect](https://github.com/2991535823/sgs_kill),你可以选择喜欢的图像处理库将待检测图像保存为文件后再调用```detect.kill()```
 ```python
@@ -21,5 +22,5 @@ print(res)
 #['wind', 'down', 'up', 'wind']
 ```
 # 如何获取
-1. 旧版直接仓库内下载获取
+1. 旧版直接[仓库](https://github.com/2991535823/sgs_kill)内下载获取
 2. 新版加入QQ频道:pd33796681
